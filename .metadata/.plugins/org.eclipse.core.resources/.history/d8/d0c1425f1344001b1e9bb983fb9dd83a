@@ -1,0 +1,9 @@
+
+public class castTest {
+
+	public static void main(String[] args) {
+		char a = (char) 65;
+		System.out.println(a);
+	}
+
+}
